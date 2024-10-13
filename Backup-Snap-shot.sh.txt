@@ -28,16 +28,8 @@
 #exit
 
 
-#fi
-
-#!/bin/bash
-#Author:Muhamamd Asim
-#Date:10-june-2017
-#Purpose:Back up on a remote location, with compression & auto updation of backup.
 
 
-
-#Defining the source to backup
 
 #SRCNAME="`date +%Y.%-m.%-d.%-H.%-M.%-S`.tar"
 
